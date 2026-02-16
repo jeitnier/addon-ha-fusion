@@ -12,7 +12,7 @@ arch:
 init: false
 
 # homepage of the add-on
-url: https://gitea.jaredeitnier.com/Homelab/addon-ha-fusion
+url: https://github.com/jeitnier/addon-ha-fusion
 
 # icon for the menu panel integration
 panel_icon: mdi:atom
