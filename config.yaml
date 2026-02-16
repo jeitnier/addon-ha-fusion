@@ -4,9 +4,7 @@ version: 2024.10.1
 slug: ha_fusion
 description: A modern, easy-to-use and performant custom Home Assistant dashboard
 arch:
-  - aarch64
   - amd64
-  - armv7
 
 # disable the docker default system init
 init: false
